@@ -65,10 +65,6 @@ Program **Admin Toko Buah** adalah aplikasi berbasis CLI (Command Line Interface
 - ⌨️ Program berbasis input manual dan dijalankan sepenuhnya lewat terminal.
 - ⚠️ Jika nama buah sudah ada di daftar, sistem akan menolak penambahan.
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Silakan gunakan, modifikasi, dan distribusikan sesuai kebutuhan.
-
 ---
 
 > Dibuat oleh Farhan Wijonarko
